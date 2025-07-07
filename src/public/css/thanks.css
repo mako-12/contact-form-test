@@ -1,0 +1,44 @@
+.thanks{
+    background-color: white;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+
+}
+
+.background-message__title{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 100px;
+    transform: translate(-50%, -50%);
+    color: #F9F8F8;
+    user-select: none;
+
+}
+
+
+.thanks__content{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0 auto;
+    width: 70%;
+    text-align: center;
+}
+
+.thanks__title{
+    padding-bottom: 30px;
+    color: #80756B;
+}
+
+.home__logo{
+    background-color: #80756B;
+    color: white;
+    padding: 10px 30px;
+    font-family: Georgia;
+    text-decoration: none;
+}
+
+

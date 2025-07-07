@@ -1,0 +1,64 @@
+.confirm__content{
+    width: 70%;
+    margin: 20px auto;
+}
+
+.confirm__heading{
+text-align: center;
+padding: 20px;
+}
+h2{
+    color: #8B7969;
+}
+
+form{
+    width: 100%;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  table th,
+  table td {
+    border: 1px solid #ccc;
+    padding: 20px;
+  }
+  table th {
+    background-color: #B7A99B;
+    color: white;
+    width: 30%;
+  }
+  table td{
+    background-color: white;
+    color: #B7A99B;
+  }
+
+.confirm-table__text input{
+    border: none;
+    color: #B7A99B;
+    field-sizing: content;
+    font-size: 16px;
+}
+.form__button{
+    text-align: center;
+    margin-top: 40px;
+}
+.form__button-submit--send{
+    height: 30px;
+    width: 70px;
+    background-color: #80756B;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+.form__button-submit--fix{
+    border: none;
+    background-color: white;
+    margin-left: 30px;
+    cursor: pointer;
+    color: #80756B;
+    border-bottom: 1px solid#80756B;
+
+}
+
+

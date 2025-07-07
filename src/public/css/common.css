@@ -1,0 +1,17 @@
+header{
+ background: white;
+ border-bottom: 1px solid #8B7969;
+}
+
+.header__inner{
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px 15px;
+
+}
+.header__logo{
+    color: #8B7969;
+    text-decoration: none;
+    font-family: Georgia;
+    font-size: 40px;
+}

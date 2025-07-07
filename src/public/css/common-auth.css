@@ -1,0 +1,30 @@
+header{
+    background-color: white;
+    border-bottom: 1px solid #8B7969;
+}
+
+.header__inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    padding: 20px 15px;
+    /* max-width: 1230px; */
+    /* border-bottom: 1px solid #8B7969; */
+    position: relative;
+}
+.header__logo{
+    color: #8B7969;
+    text-decoration: none;
+    /* font-weight: bold; */
+    font-size: 40px;
+    font-family: Georgia;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.header-utilities{
+    margin-left: auto;
+    margin-right: 50px;
+}

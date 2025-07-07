@@ -1,0 +1,158 @@
+svg.w-5.h-5 {
+    width: 30px;
+    height: 30px;
+}
+
+.header-nav__button{
+    background: #F6F6F6;
+    color: #D6C7B7;
+    text-decoration: none;
+    padding: 3px 20px;
+    cursor: pointer;
+    border: 1px solid #D6C7B7;
+}
+
+
+.admin__content{
+    width: 80%;
+    margin: 0 auto;
+}
+.admin__heading{
+    text-align: center;
+    padding: 20px;
+}
+h2{
+    color: #8B7969;
+}
+
+.form-content{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+/* キーワード */
+.search-form__item-input input
+{
+    width: 260px;
+    height: 40px;
+    margin-right: 20px;;
+    background-color: #F4F4F4;
+    border: 1px solid #EDEAE6;
+
+}
+/* 性別 */
+.search-form__item-input select{
+    width: 60px;
+    height: 40px;
+    margin-right: 20px;;
+    background-color: #F4F4F4;
+    border: 1px solid #EDEAE6;
+    color: #8B7969;
+}
+/* お問い合わせ */
+.search-form__item-select--kinds{
+    width: 150px;
+    height: 40px;
+    margin-right: 20px;;
+    background-color: #F4F4F4;
+    border: 1px solid #EDEAE6;
+    color: #8B7969;
+
+}
+
+/* 年月日 */
+.search-form__item--input input{
+    width: 100px;
+    height: 40px;
+    margin-right: 20px;
+    background-color: #F4F4F4;
+    border: 1px solid #EDEAE6;
+    color: #8B7969;
+}
+
+
+.form-button{
+    display: flex;
+    margin: 0 auto;
+
+}
+
+.search-form__button-submit
+{
+    height: 40px;
+    width: 80px;
+
+}
+.search-form__button-submit{
+    margin-right: 20PX;
+    background-color: #82756A;
+    border: none;
+    color: white;
+
+}
+.search-form__button-submit--reset{
+    height: 40px;
+    width: 80px;
+    background-color: #D9C6B5;
+    border: none;
+    color: white;
+}
+
+.admin-utilities{
+    display: flex;
+    justify-content: space-between;
+}
+.admin-utilities-item input{
+    margin-top: 20px;
+    margin-bottom:20px;
+    width: 100px;
+    height: 40px;
+    background-color: #EDEAE6;
+    color: #82756A;
+    cursor: pointer;
+    border: none;
+}
+
+
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+table th
+ {
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+table th{
+    background-color: #8B7969;
+    color: white;
+    border-right: 1px solid #8B7969;
+
+}
+table td{
+    color: #82756A;
+    border: none;
+    padding: 20px;
+}
+
+
+.list-table__item{
+    text-align: left;
+}
+
+.list-table__item:nth-child(5){
+    text-align: center;
+}
+
+.list-table__item a{
+    border: 1px solid #D9C6B5;
+    background-color: #FCFCFC;
+    color: #D9C6B5;
+    text-decoration: none;
+    padding: 5px 20px;
+
+
+}
