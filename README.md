@@ -21,7 +21,8 @@ php artisan db:seed --class=ContactsTableSeeder(エラーになり実行でき�
 - MySQL 8.0  
 - PHP7.4.9  
 ## ER図
-< - - - 作成したER図の画像 - - - >
+
+![ER図](https://github.com/mako-12/contact-form-test/blob/main/ER%E5%9B%B3.drawio.png)  
 
 ## URL
 開発環境：http://localhost/  
